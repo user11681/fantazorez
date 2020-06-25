@@ -1,0 +1,12 @@
+{
+    "type": "smithing",
+    "base": {
+        "item": "netherite_shovel"
+    },
+    "addition": {
+        "tag": "fantazorez:ingot_enderite"
+    },
+    "result": {
+        "item": "fantazorez:enderite_shovel"
+    }
+}

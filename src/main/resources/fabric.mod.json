@@ -1,0 +1,32 @@
+{
+    "schemaVersion": 1,
+    "id": "fantazorez",
+    "version": "${version}",
+    "name": "FantaZ OreZ",
+    "description": "a mod that adds ores and materials",
+    "authors": [
+        "user11681"
+    ],
+    "contact": {
+        "sources": "https://github.com/user11681/fantazorez"
+    },
+    "license": "CC0-1.0",
+    "icon": "assets/fantazorez/textures/icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "user11681.fantazorez.Main"
+        ],
+        "client": [
+            "user11681.fantazorez.Client"
+        ]
+    },
+    "mixins": [
+        "fantazorez.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=0.8.8+build.202",
+        "fabric": "*",
+        "minecraft": "1.16.1"
+    }
+}

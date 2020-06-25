@@ -1,0 +1,13 @@
+{
+    "required": true,
+    "package": "user11681.fantazorez.mixin",
+    "compatibilityLevel": "JAVA_8",
+    "mixins": [
+        "mixin.data.server.RecipesProviderMixin"
+    ],
+    "client": [
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

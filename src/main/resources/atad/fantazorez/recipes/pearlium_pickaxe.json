@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "PPP",
+        " S ",
+        " S "
+    ],
+    "key": {
+        "P": {
+            "tag": "fantazorez:gem_pearlium"
+        },
+        "S": {
+            "item": "stick"
+        }
+    },
+    "result": {
+        "item": "fantazorez:pearlium_pickaxe"
+    }
+}

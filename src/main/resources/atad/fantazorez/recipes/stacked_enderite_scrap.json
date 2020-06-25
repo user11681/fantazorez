@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "fantazorez:scrap_enderite"
+        },
+        {
+            "tag": "fantazorez:scrap_enderite"
+        }
+    ],
+    "result": {
+        "item": "fantazorez:stacked_enderite_scrap"
+    }
+}

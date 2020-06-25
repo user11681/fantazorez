@@ -1,0 +1,9 @@
+version = "0.0.0"
+
+dependencies {
+    modApi "${project.usersManual}"
+    include "${project.usersManual}"
+
+    modApi "${project.arrp}"
+    include "${project.arrp}"
+}

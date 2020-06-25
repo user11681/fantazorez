@@ -1,0 +1,12 @@
+{
+    "type": "smithing",
+    "base": {
+        "item": "netherite_pickaxe"
+    },
+    "addition": {
+        "tag": "fantazorez:ingot_enderite"
+    },
+    "result": {
+        "item": "fantazorez:enderite_pickaxe"
+    }
+}

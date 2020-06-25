@@ -1,0 +1,19 @@
+{
+    "type": "block",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "fantazorez:antediluvian_debris"
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "survives_explosion"
+                }
+            ]
+        }
+    ]
+}

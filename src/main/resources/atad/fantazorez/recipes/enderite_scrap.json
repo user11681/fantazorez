@@ -1,0 +1,9 @@
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "fantazorez:antediluvian_debris"
+    },
+    "result": "fantazorez:enderite_scrap",
+    "experience": 3,
+    "cookingtime": 200
+}

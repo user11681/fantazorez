@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "fantazorez:item/enderite_axe"
+    }
+}

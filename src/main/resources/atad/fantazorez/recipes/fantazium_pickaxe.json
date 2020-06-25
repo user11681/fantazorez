@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "FFF",
+        " S ",
+        " S "
+    ],
+    "key": {
+        "F": {
+            "tag": "fantazorez:gem_fantazium"
+        },
+        "S": {
+            "item": "stick"
+        }
+    },
+    "result": {
+        "item": "fantazorez:fantazium_pickaxe"
+    }
+}
